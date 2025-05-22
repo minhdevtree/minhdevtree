@@ -80,7 +80,6 @@ Let's connect and create something amazing together!
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
@@ -133,7 +132,7 @@ Project Leader · Frontend Lead · Business Analyst · Tester
 
 <div align="center" style="margin-bottom: 32px;">
   <a href="https://github.com/WDP301" target="_blank">
-    <img src="resources/projects/fotoco/landing.png" width="350" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="Viememo Landing"/>
+    <img src="resources/projects/fotoco/landing.png" width="350" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="Fotoco Landing"/>
   </a>
 </div>
 
@@ -161,7 +160,7 @@ Project Leader · Frontend Lead · Business Analyst · Backend Developer · Test
 
 <div align="center" style="margin-bottom: 32px;">
   <a href="https://fit2d.vercel.app/" target="_blank">
-    <img src="resources/projects/mbysa/home.png" width="350" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="Viememo Landing"/>
+    <img src="resources/projects/mbysa/home.png" width="350" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="Mbysa Home"/>
   </a>
 </div>
 
@@ -223,5 +222,61 @@ Frontend Developer · Backend Developer · Tester
 - Create appropriate components for the project.
 - Use socket.io to handle real-time seats selection.
 - Technologies used: ReactJs, HTML, CSS and JavaScript, API, Github.
+
+---
+
+**_*😊 For fun only, not for production use!:*_**
+
+<div align="center" style="margin-bottom: 32px;">
+  <a href="https://meow-gpt.vercel.app/" target="_blank">
+    <img src="resources/projects/meow-gpt/chat.png" width="350" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="MeowGpt Chat"/>
+  </a>
+</div>
+
+<h3 align="left">
+  <a href="https://meow-gpt.vercel.app/" target="_blank">📸 MeowGPT – Ask Me Anything… as a Cat!</a>
+</h3>
+
+> MeowGPT is a light-hearted AI chatbot that answers your questions—but with a twist: it always responds as if it were a cat 🐾. Whether you're asking about technology, philosophy, or why your code won't compile, MeowGPT gives you answers full of feline wisdom and sass.
+
+You can ask literally anything, and the cat will respond in its own meow-nificent way. This project was created just for fun and creativity
+
+**Role:**  
+Solo Developer, Idea Creator
+
+**Tech Stack:**
+
+- React.js, Tailwind CSS
+- OpenAI GPT API??? Nooo we don't need that, we just need a cat
+- Vercel for deployment
+
+---
+
+<div align="center" style="margin-bottom: 32px;">
+  <a href="https://github.com/minhdevtree/bookmark" target="_blank">
+    <img src="resources/projects/bookmark-manager/demo.png" width="350" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="Bookmark manager"/>
+  </a>
+</div>
+
+<h3 align="left">
+  <a href="https://github.com/minhdevtree/bookmark" target="_blank">📸 Bookmark Manager – A Customizable Chrome New Tab Extension</a>
+</h3>
+
+> Bookmark Manager is a Chrome extension that replaces the default new tab page with a beautifully organized, highly customizable dashboard. It is divided into multiple columns, each representing a different type of content:
+
+🔖 Bookmarks – Quick access to your favorite websites
+
+✅ Tasks – A simple to-do list to manage your day
+
+📝 Notes – Rich text editor powered by Tiptap for jotting down thoughts
+
+Users can choose whether bookmarks open in the current tab or a new one, and all data is stored locally in the browser—no user tracking or data collection involved. The extension also supports data export/import, allowing easy backup and restore.
+
+This project reflects a blend of productivity and privacy-first design, with a modern tech stack and a clean, minimal UI.
+
+**Role:**  
+Solo Developer, Idea Creator
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Tiptap, Chrome Extension APIs, LocalStorage
 
 ---
