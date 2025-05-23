@@ -87,15 +87,23 @@ Let's connect and create something amazing together!
 
 ---
 
-### :fire: My Stats :
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minhdevtree&theme=dark&background=000000)](https://git.io/streak-stats)
+## 🔥 My Stats
+
+<a href="https://git.io/streak-stats" target="_blank">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhdevtree&theme=dark&background=000000" alt="GitHub Streak" height="180"/>
+</a>
 
 ---
 
-### :trophy: Top Languages :
+## 🏆 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhdevtree&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhdevtree&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="180"/>
+</a>
+
+</div>
 
 ---
 
@@ -103,7 +111,7 @@ Let's connect and create something amazing together!
 
 <div align="center" style="margin-bottom: 32px;">
   <a href="https://viememo.io.vn" target="_blank">
-    <img src="resources/projects/viememo/landing.png" width="350" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="Viememo Landing"/>
+    <img src="resources/projects/viememo/landing.png" width="600" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="Viememo Landing"/>
   </a>
 </div>
 
@@ -132,7 +140,7 @@ Project Leader · Frontend Lead · Business Analyst · Tester
 
 <div align="center" style="margin-bottom: 32px;">
   <a href="https://github.com/WDP301" target="_blank">
-    <img src="resources/projects/fotoco/landing.png" width="350" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="Fotoco Landing"/>
+    <img src="resources/projects/fotoco/landing.png" width="600" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="Fotoco Landing"/>
   </a>
 </div>
 
@@ -160,7 +168,7 @@ Project Leader · Frontend Lead · Business Analyst · Backend Developer · Test
 
 <div align="center" style="margin-bottom: 32px;">
   <a href="https://fit2d.vercel.app/" target="_blank">
-    <img src="resources/projects/mbysa/home.png" width="350" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="Mbysa Home"/>
+    <img src="resources/projects/mbysa/home.png" width="600" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="Mbysa Home"/>
   </a>
 </div>
 
@@ -229,7 +237,7 @@ Frontend Developer · Backend Developer · Tester
 
 <div align="center" style="margin-bottom: 32px;">
   <a href="https://meow-gpt.vercel.app/" target="_blank">
-    <img src="resources/projects/meow-gpt/chat.png" width="350" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="MeowGpt Chat"/>
+    <img src="resources/projects/meow-gpt/chat.png" width="600" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="MeowGpt Chat"/>
   </a>
 </div>
 
@@ -254,7 +262,7 @@ Solo Developer, Idea Creator
 
 <div align="center" style="margin-bottom: 32px;">
   <a href="https://github.com/minhdevtree/bookmark" target="_blank">
-    <img src="resources/projects/bookmark-manager/demo.png" width="350" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="Bookmark manager"/>
+    <img src="resources/projects/bookmark-manager/demo.png" width="600" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="Bookmark manager"/>
   </a>
 </div>
 
