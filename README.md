@@ -5,12 +5,15 @@
   <a href="https://www.facebook.com/MinhDepTraiSo01/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <a href="https://blog.minhdevtree.tech" target="_blank">
+    <img src="https://img.shields.io/badge/blog.minhdevtree.tech-7289da?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
+  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
+  <!-- <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=minhdevtree&style=flat-square&color=blue" alt="Profile View"/>
@@ -236,13 +239,13 @@ Frontend Developer · Backend Developer · Tester
 **_*😊 For fun only, not for production use!:*_**
 
 <div align="center" style="margin-bottom: 32px;">
-  <a href="https://meow-gpt.vercel.app/" target="_blank">
+  <a href="https://meowgpt.minhdevtree.tech/" target="_blank">
     <img src="resources/projects/meow-gpt/chat.png" width="600" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" alt="MeowGpt Chat"/>
   </a>
 </div>
 
 <h3 align="left">
-  <a href="https://meow-gpt.vercel.app/" target="_blank">📸 MeowGPT – Ask Me Anything… as a Cat!</a>
+  <a href="https://meowgpt.minhdevtree.tech/" target="_blank">📸 MeowGPT – Ask Me Anything… as a Cat!</a>
 </h3>
 
 > MeowGPT is a light-hearted AI chatbot that answers your questions—but with a twist: it always responds as if it were a cat 🐾. Whether you're asking about technology, philosophy, or why your code won't compile, MeowGPT gives you answers full of feline wisdom and sass.
